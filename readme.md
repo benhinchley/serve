@@ -4,6 +4,7 @@
 ## install
 `go get -u github.com/benhinchley/serve`
 
+## usage
 ```
 Usage: serve [flags] <path>
 
